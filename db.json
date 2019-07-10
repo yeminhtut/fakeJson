@@ -1,11 +1,182 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "bookedFor": "2019-07-12T04:00:00.000Z",
+  "bookedForLocal": "2019-07-12T12:00:00.000+08:00",
+  "discount": 50,
+  "guestCount": 2,
+  "restaurantId": 5003988,
+  "cityId": 2,
+  "confirmationCode": "03MX0EA",
+  "countryCode": "SG",
+  "createdAt": "2019-07-10T06:34:45.000Z",
+  "id": 53637291,
+  "needsQRCode": true,
+  "platform": "admin",
+  "redeemCodeRefresh": 153120211,
+  "status": "upcoming",
+  "statusName": "upcoming",
+  "updatedAt": "0001-01-01T00:00:00.000Z",
+  "userId": 5230500,
+  "country": {
+    "bookingAdvanceCancelTimeMinutes": 1,
+    "bookingAdvanceCancelTimeQRMinutes": 15,
+    "bookingGracePeriodMinutes": 15,
+    "code": "SG",
+    "currencyCode": "SGD",
+    "currencySymbol": "S$",
+    "flagImageURL": "https:\/\/s3-ap-southeast-1.amazonaws.com\/eop-test-1\/flags\/SG.png",
+    "name": "Singapore",
+    "taxCode": "GST"
+  },
+  "restaurant": {
+    "activatedAt": "2019-06-25T08:21:24.000Z",
+    "address": "10 Sinaran Drive #01-47 Square 2 , Singapore 307506 ",
+    "area": {
+      "id": 84,
+      "name": "Central"
+    },
+    "areaId": 84,
+    "atmosphereIds": [
+
+    ],
+    "averageRating": "4.0",
+    "categoryPanelIds": [
+
+    ],
+    "city": {
+      "countryCode": "SG",
+      "englishName": "Singapore",
+      "id": 2,
+      "name": "Singapore",
+      "slugId": "singapore",
+      "supportContact": {
+        "customerEmail": "support.sg@eatigo.com",
+        "customerPhone": "+65 9270 8718",
+        "merchantEmail": "merchant.sg@eatigo.com",
+        "merchantPhone": "+65 9270 8719"
+      },
+      "timezone": "Asia\/Singapore"
+    },
+    "cityId": 2,
+    "countryCode": "SG",
+    "coverImage": {
+      "coverImageDesktopURL": "https:\/\/cdn-eop-test-1.eatigo.com\/restaurant-cover-image\/5003988_list_24cdaed4-7d5c-4e33-8e89-c4a44ebff9e1.jpg",
+      "coverImageMobileURL": "https:\/\/cdn-eop-test-1.eatigo.com\/restaurant-cover-image\/5003988_panel_42e9e005-dd91-453f-adac-1176d6bec393.jpg"
+    },
+    "createdAt": "2019-05-30T07:54:34.000Z",
+    "cuisineIds": [
+      7
+    ],
+    "cuisines": [
+      {
+        "englishName": "Chinese",
+        "id": 7,
+        "name": "Chinese",
+        "isPrimary": true
+      }
+    ],
+    "deeplinkUrl": "eatigo:\/\/staging.eatigo.com\/sg\/singapore\/en\/r\/ju-hao-square2-5003988",
+    "description": " sdfsdfsdf",
+    "distance": null,
+    "eatigoGiftVoucher": true,
+    "emailAddress": "noreply@eatigo.com",
+    "id": 5003988,
+    "isNew": true,
+    "languageCode": "en",
+    "lat": 1.3207393721,
+    "latestBookingCount": 2,
+    "listCoverImageURL": "https:\/\/cdn-eop-test-1.eatigo.com\/restaurant-cover-image\/5003988_list_24cdaed4-7d5c-4e33-8e89-c4a44ebff9e1.jpg",
+    "lon": 103.844320677,
+    "maxAdvanceBookingDays": 30,
+    "maxPartySize": 6,
+    "menuFile": {
+
+    },
+    "minAdvanceBookingMinutes": 5,
+    "minPartySize": 1,
+    "name": "Ju Hao @ Square2",
+    "needQRCode": true,
+    "neighborhood": {
+      "id": 169,
+      "name": "Novena"
+    },
+    "neighborhoodId": 169,
+    "note": "sdfsdf",
+    "ownerIds": [
+
+    ],
+    "panelCoverImageURL": "https:\/\/cdn-eop-test-1.eatigo.com\/restaurant-cover-image\/5003988_panel_42e9e005-dd91-453f-adac-1176d6bec393.jpg",
+    "paymentOptionIds": [
+
+    ],
+    "phoneNumber": "+65-63520082",
+    "priceRate": 2,
+    "primaryCuisine": {
+      "englishName": "Chinese",
+      "id": 7,
+      "name": "Chinese",
+      "isPrimary": true
+    },
+    "primaryCuisineId": 7,
+    "rating": 4,
+    "seoMetaDescription": "Book now Ju Hao @ Square2 (already 2 reservations). CHINESE restaurant in Singapore, Central",
+    "seoMetaTitle": "Ju Hao @ Square2, discounts up to 50% - eatigo",
+    "serviceIds": [
+
+    ],
+    "spokenLanguageCodes": [
+
+    ],
+    "spokenLanguages": [
+
+    ],
+    "stateId": 2,
+    "status": "live",
+    "statusUpdatedAt": "2019-06-25T08:21:24.000Z",
+    "timeslots": null,
+    "updatedAt": "2019-06-25T08:21:25.000Z",
+    "websiteUrl": "https:\/\/staging.eatigo.com\/sg\/singapore\/en\/r\/ju-hao-square2-5003988",
+    "zipCode": "307506 "
+  },
+  "user": {
+    "authProviders": [
+
+    ],
+    "banned": false,
+    "countryCode": "SG",
+    "createdAt": "2018-10-09T05:11:03.000Z",
+    "emails": [
+      {
+        "email": "yemin@eatigo.com",
+        "verified": true
+      }
+    ],
+    "experiments": null,
+    "firstName": "Ye Min",
+    "gender": "N",
+    "id": 5230500,
+    "languageCode": "en",
+    "lastName": "Htut",
+    "lastSignedInAt": null,
+    "noShowNotifiedAt": "2019-06-29T03:30:01.000Z",
+    "phoneNumber": "+65-96525331",
+    "phoneNumberVerified": false,
+    "photoUrl": "https:\/\/eop-test-1.s3-ap-southeast-1.amazonaws.com\/user-photo\/5230500_e6186cc5-ea99-4499-8aa3-0add9181712e.jpg",
+    "primaryEmail": {
+      "email": "yehtut.it@gmail.com",
+      "verified": true
+    },
+    "primaryPhone": {
+      "code": "+65",
+      "phone": "96525331",
+      "verified": false
+    },
+    "roles": [
+      {
+        "id": "con",
+        "name": "Consumer"
+      }
+    ],
+    "signupChannelId": "email",
+    "updatedAt": "2019-07-04T10:23:32.000Z"
   }
 }
