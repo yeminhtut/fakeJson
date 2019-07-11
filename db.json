@@ -1,5 +1,5 @@
-{
-  "posts": {
+{"posts":
+  {
     "bookedFor": "2019-07-12T04:00:00.000Z",
     "bookedForLocal": "2019-07-12T12:00:00.000+08:00",
     "discount": 50,
@@ -12,7 +12,6 @@
     "id": 53637291,
     "needsQRCode": true,
     "platform": "admin",
-    "redeemCode": "XXXX",
     "redeemCodeRefresh": 153120211,
     "status": "upcoming",
     "statusName": "upcoming",
