@@ -10,6 +10,7 @@
     "countryCode": "SG",
     "createdAt": "2019-07-10T06:34:45.000Z",
     "id": 53637291,
+    "redeemCodeRefresh": 180000,
     "needsQRCode": true,
     "redeemCodeImage": "iVBORw0KGgoAAAANSUhEUgAAAMgAAADIAQMAAACXljzdAAAABlBMVEX///8AAABVwtN+AAAA9klEQVRYheWXuxHEIAxE5SEgpASX4tJwaS6FEggdMKfTB3zfBlhvYmueE6SVZIjQxK6TaJHHvnn4QCS7njedQWLK+1Y0DJhEjl3TlYOySkIASNA65jsQqyM46e5t9v7P13ORPndCW6wbfycSCrkUPiJAYkeuidmqnY+1pDO2eQllPijVqHVktfJao3cjHjlI+5SC70Yung9AokpVAVsOCJX0XSKBTiSBL8dPSYb6X4C4d+xGNPK+S2QiSQ4o8mtWIRE17OhTleRgbrL5n2rrX631644BR3iodj8jE783Jr0uT0zcvVZTkd0xMInLiE1YUWyI5C56AvSxeatplYR7AAAAAElFTkSuQmCC",
     "platform": "admin",
