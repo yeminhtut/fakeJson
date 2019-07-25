@@ -11,7 +11,7 @@
     "createdAt": "2019-07-10T06:34:45.000Z",
     "id": 53637291,
     "needsQRCode": true,
-    "redeemCodeRefresh": 30000,
+    "redeemCodeRefresh": 40000,
     "platform": "admin",
     "status": "upcoming",
     "statusName": "upcoming",
