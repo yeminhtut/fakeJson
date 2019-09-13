@@ -1,34 +1,10 @@
 {
   "users": [
-    {
-      "cityId": 2,
+    { "cityId": 2,
       "countryCode": "SG",
-      "createdAt": "2015-03-31T01:11:45.000Z",
-      "firstName": "Michelle",
-      "gender": "F",
-      "id": 60160,
-      "languageCode": "en",
-      "lastName": "Wong",
-      "lastSignedInAt": null,
-      "phoneNumber": "+65-99991223",
-      "phoneNumberVerified": true,
-      "photoUrl": "",
-      "primaryEmail": {
-        "email": "michelle@eatigo.com",
-        "verified": true
-      },
-      "primaryPhone": {
-        "code": "+65",
-        "phone": "99991223",
-        "verified": true
-      },
-      "roles": [{
-        "id": "mer",
-        "name": "Merchant"
-      }],
-      "signupChannelId": "email",
-      "updatedAt": "2017-04-01T14:00:02.000Z",
-      "status": "active"
-    }
+      "createdAt": "2015-03-31T01:11:45.000Z"
+    },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
   ]
 }
