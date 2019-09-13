@@ -1,9 +1,6 @@
 {
   "users": [
-    { "cityId": 2,
-      "countryCode": "SG",
-      "createdAt": "2015-03-31T01:11:45.000Z"
-    },
+    { "cityId": 2, "countryCode": "SG"},
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ]
