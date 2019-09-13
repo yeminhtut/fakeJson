@@ -1,7 +1,5 @@
 {"users": [
   {
-      "authProviders": [],
-      "banned": false,
       "cityId": 2,
       "countryCode": "SG",
       "createdAt": "2015-03-31T01:11:45.000Z",
@@ -11,7 +9,6 @@
           "verified": false
         }
       ],
-      "experiments": null,
       "firstName": "Michelle",
       "gender": "F",
       "id": 60160,
@@ -38,53 +35,9 @@
       ],
       "signupChannelId": "email",
       "updatedAt": "2017-04-01T14:00:02.000Z",
-      "lastBookedAt": "2016-04-19T08:47:36.000Z",
-      "noshowBookingCount": 0,
-      "totalBookingCount": 1,
       "status": "active"
     },
     {
-      "banned": false,
-      "cityId": 2,
-      "countryCode": "SG",
-      "createdAt": "2015-11-22T23:52:56.000Z",
-      "emails": [
-
-      ],
-      "experiments": null,
-      "firstName": "Fur",
-      "gender": "M",
-      "id": 136190,
-      "languageCode": "en",
-      "lastName": "Kicks",
-      "lastSignedInAt": null,
-      "phoneNumber": "+65-98555005",
-      "phoneNumberVerified": true,
-      "photoUrl": "",
-      "primaryEmail": {
-        "email": "furkicks@eatigo.com",
-        "verified": true
-      },
-      "primaryPhone": {
-        "code": "+65",
-        "phone": "98555005",
-        "verified": true
-      },
-      "roles": [
-        {
-          "id": "mer_manager",
-          "name": "Manager"
-        }
-      ],
-      "signupChannelId": "email",
-      "updatedAt": "2017-04-02T21:37:10.000Z",
-      "status": "active"
-    },
-    {
-      "authProviders": [
-
-      ],
-      "banned": false,
       "cityId": 2,
       "countryCode": "SG",
       "createdAt": "2017-02-16T19:48:36.000Z",
@@ -121,14 +74,9 @@
       ],
       "signupChannelId": "email",
       "updatedAt": "2017-04-10T01:09:31.000Z",
-      "lastBookedAt": "2017-04-11T09:02:54.000Z",
       "status": "active"
     },
     {
-      "authProviders": [
-
-      ],
-      "banned": false,
       "cityId": 2,
       "countryCode": "SG",
       "createdAt": "2017-06-18T23:08:40.000Z",
@@ -204,10 +152,6 @@
       "status": "active"
     },
     {
-      "authProviders": [
-
-      ],
-      "banned": false,
       "cityId": 2,
       "countryCode": "SG",
       "createdAt": "2018-11-16T08:02:19.000Z",
@@ -243,10 +187,6 @@
       "status": "active"
     },
     {
-      "authProviders": [
-
-      ],
-      "banned": false,
       "cityId": 2,
       "countryCode": "SG",
       "createdAt": "2018-11-20T04:06:04.000Z",
@@ -283,10 +223,6 @@
       "status": "pending"
     },
     {
-      "authProviders": [
-
-      ],
-      "banned": false,
       "cityId": 2,
       "countryCode": "SG",
       "createdAt": "2018-12-22T06:11:13.000Z",
@@ -323,10 +259,6 @@
       "status": "active"
     },
     {
-      "authProviders": [
-
-      ],
-      "banned": false,
       "cityId": 2,
       "countryCode": "SG",
       "createdAt": "2014-06-05T01:16:18.000Z",
@@ -366,10 +298,6 @@
       "status": "pending"
     },
     {
-      "authProviders": [
-
-      ],
-      "banned": false,
       "cityId": 2,
       "countryCode": "SG",
       "createdAt": "2014-10-13T20:16:31.000Z",
@@ -412,7 +340,6 @@
       "authProviders": [
 
       ],
-      "banned": false,
       "cityId": 2,
       "countryCode": "SG",
       "createdAt": "2015-08-25T21:44:34.000Z",
@@ -428,7 +355,6 @@
       "lastSignedInAt": null,
       "phoneNumber": "+65-82228686",
       "phoneNumberVerified": true,
-      "photoUrl": "",
       "primaryEmail": {
         "email": "peizhisim@gmail.com",
         "verified": true
