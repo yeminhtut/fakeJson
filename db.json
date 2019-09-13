@@ -4,12 +4,6 @@
       "cityId": 2,
       "countryCode": "SG",
       "createdAt": "2015-03-31T01:11:45.000Z",
-      "emails": [
-        {
-          "email": "janice@eatigo.com",
-          "verified": false
-        }
-      ],
       "firstName": "Michelle",
       "gender": "F",
       "id": 60160,
@@ -37,6 +31,6 @@
       "signupChannelId": "email",
       "updatedAt": "2017-04-01T14:00:02.000Z",
       "status": "active"
-    },
+    }
   ]
 }
