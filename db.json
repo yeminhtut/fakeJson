@@ -45,52 +45,6 @@
       },
       "updatedAt": "2017-04-01T14:00:02.000Z",
       "status": "active"
-    },
-     { 
-      "cityId": 2, 
-      "countryCode": "SG",
-      "createdAt": "2017-02-16T19:48:36.000Z",
-      "firstName": "Hong Kong Sheng Kee Dessert",
-      "gender": "M",
-      "id": 8,
-      "languageCode": "en",
-      "lastName": "Wong",
-      "phoneNumber": "+65-91079888",
-      "roles": [
-        {
-           "id": "mer_staff",
-          "name": "Merchant staff"
-        }
-      ],
-       "primaryEmail": {
-        "email": "sk.bm@eatigo.com",
-        "verified": true
-      },
-      "updatedAt": "2017-04-01T14:00:02.000Z",
-      "status": "active"
-    },
-    { 
-      "cityId": 2, 
-      "countryCode": "SG",
-      "createdAt": "2017-02-16T19:48:36.000Z",
-      "firstName": "Hong Kong Sheng Kee Dessert",
-      "gender": "M",
-      "id": 4,
-      "languageCode": "en",
-      "lastName": "Wong",
-      "phoneNumber": "+65-91079888",
-      "roles": [
-        {
-           "id": "mer_staff",
-          "name": "Merchant staff"
-        }
-      ],
-       "primaryEmail": {
-        "email": "sk.bm@eatigo.com",
-        "verified": true
-      },
-      "updatedAt": "2017-04-01T14:00:02.000Z",
-      "status": "pending"
-    },
+    }
   ]
 }
