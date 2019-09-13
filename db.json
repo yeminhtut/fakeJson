@@ -22,12 +22,10 @@
         "phone": "99991223",
         "verified": true
       },
-      "roles": [
-        {
-          "id": "mer",
-          "name": "Merchant"
-        }
-      ],
+      "roles": [{
+        "id": "mer",
+        "name": "Merchant"
+      }],
       "signupChannelId": "email",
       "updatedAt": "2017-04-01T14:00:02.000Z",
       "status": "active"
