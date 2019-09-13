@@ -1,184 +1,451 @@
-{"booking":
+{"users": [
   {
-    "bookedFor": "2019-07-12T04:00:00.000Z",
-    "bookedForLocal": "2019-07-12T12:00:00.000+08:00",
-    "discount": 50,
-    "guestCount": 2,
-    "restaurantId": 5003988,
-    "cityId": 2,
-    "confirmationCode": "03MX0EA",
-    "countryCode": "SG",
-    "createdAt": "2019-07-10T06:34:45.000Z",
-    "id": 53637291,
-    "needsQRCode": true,
-    "platform": "admin",
-    "redeemCodeRefresh": 153120211,
-    "status": "upcoming",
-    "statusName": "upcoming",
-    "updatedAt": "0001-01-01T00:00:00.000Z",
-    "userId": 5230500,
-    "country": {
-      "bookingAdvanceCancelTimeMinutes": 1,
-      "bookingAdvanceCancelTimeQRMinutes": 15,
-      "bookingGracePeriodMinutes": 15,
-      "code": "SG",
-      "currencyCode": "SGD",
-      "currencySymbol": "S$",
-      "flagImageURL": "https:\/\/s3-ap-southeast-1.amazonaws.com\/eop-test-1\/flags\/SG.png",
-      "name": "Singapore",
-      "taxCode": "GST"
-    },
-    "restaurant": {
-      "activatedAt": "2019-06-25T08:21:24.000Z",
-      "address": "10 Sinaran Drive #01-47 Square 2 , Singapore 307506 ",
-      "area": {
-        "id": 84,
-        "name": "Central"
-      },
-      "areaId": 84,
-      "atmosphereIds": [
-
-      ],
-      "averageRating": "4.0",
-      "categoryPanelIds": [
-
-      ],
-      "city": {
-        "countryCode": "SG",
-        "englishName": "Singapore",
-        "id": 2,
-        "name": "Singapore",
-        "slugId": "singapore",
-        "supportContact": {
-          "customerEmail": "support.sg@eatigo.com",
-          "customerPhone": "+65 9270 8718",
-          "merchantEmail": "merchant.sg@eatigo.com",
-          "merchantPhone": "+65 9270 8719"
-        },
-        "timezone": "Asia\/Singapore"
-      },
+      "authProviders": [],
+      "banned": false,
       "cityId": 2,
       "countryCode": "SG",
-      "coverImage": {
-        "coverImageDesktopURL": "https:\/\/cdn-eop-test-1.eatigo.com\/restaurant-cover-image\/5003988_list_24cdaed4-7d5c-4e33-8e89-c4a44ebff9e1.jpg",
-        "coverImageMobileURL": "https:\/\/cdn-eop-test-1.eatigo.com\/restaurant-cover-image\/5003988_panel_42e9e005-dd91-453f-adac-1176d6bec393.jpg"
-      },
-      "createdAt": "2019-05-30T07:54:34.000Z",
-      "cuisineIds": [
-        7
-      ],
-      "cuisines": [
-        {
-          "englishName": "Chinese",
-          "id": 7,
-          "name": "Chinese",
-          "isPrimary": true
-        }
-      ],
-      "deeplinkUrl": "eatigo:\/\/staging.eatigo.com\/sg\/singapore\/en\/r\/ju-hao-square2-5003988",
-      "description": " sdfsdfsdf",
-      "distance": null,
-      "eatigoGiftVoucher": true,
-      "emailAddress": "noreply@eatigo.com",
-      "id": 5003988,
-      "isNew": true,
-      "languageCode": "en",
-      "lat": 1.3207393721,
-      "latestBookingCount": 2,
-      "listCoverImageURL": "https:\/\/cdn-eop-test-1.eatigo.com\/restaurant-cover-image\/5003988_list_24cdaed4-7d5c-4e33-8e89-c4a44ebff9e1.jpg",
-      "lon": 103.844320677,
-      "maxAdvanceBookingDays": 30,
-      "maxPartySize": 6,
-      "menuFile": {
-
-      },
-      "minAdvanceBookingMinutes": 5,
-      "minPartySize": 1,
-      "name": "Ju Hao @ Square2",
-      "needQRCode": true,
-      "neighborhood": {
-        "id": 169,
-        "name": "Novena"
-      },
-      "neighborhoodId": 169,
-      "note": "sdfsdf",
-      "ownerIds": [
-
-      ],
-      "panelCoverImageURL": "https:\/\/cdn-eop-test-1.eatigo.com\/restaurant-cover-image\/5003988_panel_42e9e005-dd91-453f-adac-1176d6bec393.jpg",
-      "paymentOptionIds": [
-
-      ],
-      "phoneNumber": "+65-63520082",
-      "priceRate": 2,
-      "primaryCuisine": {
-        "englishName": "Chinese",
-        "id": 7,
-        "name": "Chinese",
-        "isPrimary": true
-      },
-      "primaryCuisineId": 7,
-      "rating": 4,
-      "seoMetaDescription": "Book now Ju Hao @ Square2 (already 2 reservations). CHINESE restaurant in Singapore, Central",
-      "seoMetaTitle": "Ju Hao @ Square2, discounts up to 50% - eatigo",
-      "serviceIds": [
-
-      ],
-      "spokenLanguageCodes": [
-
-      ],
-      "spokenLanguages": [
-
-      ],
-      "stateId": 2,
-      "status": "live",
-      "statusUpdatedAt": "2019-06-25T08:21:24.000Z",
-      "timeslots": null,
-      "updatedAt": "2019-06-25T08:21:25.000Z",
-      "websiteUrl": "https:\/\/staging.eatigo.com\/sg\/singapore\/en\/r\/ju-hao-square2-5003988",
-      "zipCode": "307506 "
-    },
-    "user": {
-      "authProviders": [
-
-      ],
-      "banned": false,
-      "countryCode": "SG",
-      "createdAt": "2018-10-09T05:11:03.000Z",
+      "createdAt": "2015-03-31T01:11:45.000Z",
       "emails": [
         {
-          "email": "yemin@eatigo.com",
-          "verified": true
+          "email": "janice@eatigo.com",
+          "verified": false
         }
       ],
       "experiments": null,
-      "firstName": "Ye Min",
-      "gender": "N",
-      "id": 5230500,
+      "firstName": "Michelle",
+      "gender": "F",
+      "id": 60160,
       "languageCode": "en",
-      "lastName": "Htut",
+      "lastName": "Wong",
       "lastSignedInAt": null,
-      "noShowNotifiedAt": "2019-06-29T03:30:01.000Z",
-      "phoneNumber": "+65-96525331",
-      "phoneNumberVerified": false,
-      "photoUrl": "https:\/\/eop-test-1.s3-ap-southeast-1.amazonaws.com\/user-photo\/5230500_e6186cc5-ea99-4499-8aa3-0add9181712e.jpg",
+      "phoneNumber": "+65-99991223",
+      "phoneNumberVerified": true,
+      "photoUrl": "",
       "primaryEmail": {
-        "email": "yehtut.it@gmail.com",
+        "email": "michelle@eatigo.com",
         "verified": true
       },
       "primaryPhone": {
         "code": "+65",
-        "phone": "96525331",
+        "phone": "99991223",
+        "verified": true
+      },
+      "roles": [
+        {
+          "id": "mer",
+          "name": "Merchant"
+        }
+      ],
+      "signupChannelId": "email",
+      "updatedAt": "2017-04-01T14:00:02.000Z",
+      "lastBookedAt": "2016-04-19T08:47:36.000Z",
+      "noshowBookingCount": 0,
+      "totalBookingCount": 1,
+      "status": "active"
+    },
+    {
+      "banned": false,
+      "cityId": 2,
+      "countryCode": "SG",
+      "createdAt": "2015-11-22T23:52:56.000Z",
+      "emails": [
+
+      ],
+      "experiments": null,
+      "firstName": "Fur",
+      "gender": "M",
+      "id": 136190,
+      "languageCode": "en",
+      "lastName": "Kicks",
+      "lastSignedInAt": null,
+      "phoneNumber": "+65-98555005",
+      "phoneNumberVerified": true,
+      "photoUrl": "",
+      "primaryEmail": {
+        "email": "furkicks@eatigo.com",
+        "verified": true
+      },
+      "primaryPhone": {
+        "code": "+65",
+        "phone": "98555005",
+        "verified": true
+      },
+      "roles": [
+        {
+          "id": "mer_manager",
+          "name": "Manager"
+        }
+      ],
+      "signupChannelId": "email",
+      "updatedAt": "2017-04-02T21:37:10.000Z",
+      "status": "active"
+    },
+    {
+      "authProviders": [
+
+      ],
+      "banned": false,
+      "cityId": 2,
+      "countryCode": "SG",
+      "createdAt": "2017-02-16T19:48:36.000Z",
+      "emails": [
+        {
+          "email": "wu_wei_qiang@hotmail.com",
+          "verified": false
+        }
+      ],
+      "experiments": null,
+      "firstName": "The Manhattan FISH MARKET",
+      "gender": "M",
+      "id": 570604,
+      "languageCode": "en",
+      "lastName": "",
+      "lastSignedInAt": null,
+      "phoneNumber": "+65-91079888",
+      "phoneNumberVerified": true,
+      "photoUrl": "",
+      "primaryEmail": {
+        "email": "manhattan.kallang@eatigo.com",
+        "verified": true
+      },
+      "primaryPhone": {
+        "code": "+65",
+        "phone": "91079888",
+        "verified": true
+      },
+      "roles": [
+        {
+          "id": "mer_manager",
+          "name": "Manager"
+        }
+      ],
+      "signupChannelId": "email",
+      "updatedAt": "2017-04-10T01:09:31.000Z",
+      "lastBookedAt": "2017-04-11T09:02:54.000Z",
+      "status": "active"
+    },
+    {
+      "authProviders": [
+
+      ],
+      "banned": false,
+      "cityId": 2,
+      "countryCode": "SG",
+      "createdAt": "2017-06-18T23:08:40.000Z",
+      "emails": [
+
+      ],
+      "experiments": null,
+      "firstName": "PastaMania @ Harbourfront Centre",
+      "gender": "M",
+      "id": 2208137,
+      "languageCode": "en",
+      "lastName": "",
+      "lastSignedInAt": null,
+      "phoneNumber": "+65-91556803",
+      "phoneNumberVerified": true,
+      "photoUrl": "",
+      "primaryEmail": {
+        "email": "pastamania.harbour@eatigo.com",
+        "verified": true
+      },
+      "primaryPhone": {
+        "code": "+65",
+        "phone": "91556803",
+        "verified": true
+      },
+      "roles": [
+        {
+          "id": "mer",
+          "name": "Merchant"
+        }
+      ],
+      "signupChannelId": "email",
+      "updatedAt": "2017-11-14T12:09:55.000Z",
+      "status": "active"
+    },
+    {
+      "authProviders": [
+
+      ],
+      "banned": false,
+      "cityId": 2,
+      "countryCode": "SG",
+      "createdAt": "2018-05-21T19:44:19.000Z",
+      "emails": [
+
+      ],
+      "experiments": null,
+      "firstName": "Hong Kong Sheng Kee Dessert @ Bedok Mall",
+      "gender": "M",
+      "id": 3730950,
+      "languageCode": "en",
+      "lastName": "",
+      "lastSignedInAt": null,
+      "phoneNumber": "+65-98601818",
+      "phoneNumberVerified": true,
+      "photoUrl": "",
+      "primaryEmail": {
+        "email": "sk.bm@eatigo.com",
+        "verified": true
+      },
+      "primaryPhone": {
+        "code": "+65",
+        "phone": "98601818",
+        "verified": true
+      },
+      "roles": [
+        {
+          "id": "mer_staff",
+          "name": "Merchant staff"
+        }
+      ],
+      "signupChannelId": "email",
+      "status": "active"
+    },
+    {
+      "authProviders": [
+
+      ],
+      "banned": false,
+      "cityId": 2,
+      "countryCode": "SG",
+      "createdAt": "2018-11-16T08:02:19.000Z",
+      "emails": [
+
+      ],
+      "experiments": null,
+      "firstName": "Beer Alley",
+      "gender": "N",
+      "id": 5404259,
+      "languageCode": "en",
+      "lastName": ".",
+      "lastSignedInAt": null,
+      "phoneNumber": "+65-82829330",
+      "phoneNumberVerified": false,
+      "photoUrl": "",
+      "primaryEmail": {
+        "email": "beeralley@eatigo.com",
+        "verified": false
+      },
+      "primaryPhone": {
+        "code": "+65",
+        "phone": "82829330",
         "verified": false
       },
       "roles": [
         {
-          "id": "con",
-          "name": "Consumer"
+          "id": "mer_manager",
+          "name": "Manager"
         }
       ],
       "signupChannelId": "email",
-      "updatedAt": "2019-07-04T10:23:32.000Z"
+      "status": "active"
+    },
+    {
+      "authProviders": [
+
+      ],
+      "banned": false,
+      "cityId": 2,
+      "countryCode": "SG",
+      "createdAt": "2018-11-20T04:06:04.000Z",
+      "emails": [
+
+      ],
+      "experiments": null,
+      "firstName": "Big Fish Small Fish",
+      "gender": "N",
+      "id": 5422011,
+      "languageCode": "en",
+      "lastName": ".",
+      "lastSignedInAt": null,
+      "phoneNumber": "+65-62600215",
+      "phoneNumberVerified": false,
+      "photoUrl": "",
+      "primaryEmail": {
+        "email": "bfsf.t@eatigo.com",
+        "verified": false
+      },
+      "primaryPhone": {
+        "code": "+65",
+        "phone": "62600215",
+        "verified": false
+      },
+      "roles": [
+        {
+          "id": "mer_manager",
+          "name": "Manager"
+        }
+      ],
+      "signupChannelId": "email",
+      "updatedAt": "2018-11-20T04:06:15.000Z",
+      "status": "pending"
+    },
+    {
+      "authProviders": [
+
+      ],
+      "banned": false,
+      "cityId": 2,
+      "countryCode": "SG",
+      "createdAt": "2018-12-22T06:11:13.000Z",
+      "emails": [
+
+      ],
+      "experiments": null,
+      "firstName": "Crabs Delicacy Seafood",
+      "gender": "N",
+      "id": 5608315,
+      "languageCode": "en",
+      "lastName": "",
+      "lastSignedInAt": null,
+      "phoneNumber": "+65-63843188",
+      "phoneNumberVerified": false,
+      "photoUrl": "",
+      "primaryEmail": {
+        "email": "3crab.sg@eatigo.com",
+        "verified": false
+      },
+      "primaryPhone": {
+        "code": "+65",
+        "phone": "63843188",
+        "verified": false
+      },
+      "roles": [
+        {
+          "id": "mer_manager",
+          "name": "Manager"
+        }
+      ],
+      "signupChannelId": "email",
+      "updatedAt": "2018-12-26T03:00:07.000Z",
+      "status": "active"
+    },
+    {
+      "authProviders": [
+
+      ],
+      "banned": false,
+      "cityId": 2,
+      "countryCode": "SG",
+      "createdAt": "2014-06-05T01:16:18.000Z",
+      "emails": [
+        {
+          "email": "stanleyng@ambush.com.sg",
+          "verified": false
+        }
+      ],
+      "experiments": null,
+      "firstName": "Stanley",
+      "gender": "M",
+      "id": 1287,
+      "languageCode": "en",
+      "lastName": "Ng",
+      "lastSignedInAt": null,
+      "phoneNumber": "+65-96689941",
+      "phoneNumberVerified": true,
+      "photoUrl": "",
+      "primaryEmail": {
+        "email": "ambush@eatigo.com",
+        "verified": true
+      },
+      "primaryPhone": {
+        "code": "+65",
+        "phone": "96689941",
+        "verified": true
+      },
+      "roles": [
+        {
+          "id": "mer_manager",
+          "name": "Manager"
+        }
+      ],
+      "signupChannelId": "email",
+      "updatedAt": "2017-03-31T12:45:59.000Z",
+      "status": "pending"
+    },
+    {
+      "authProviders": [
+
+      ],
+      "banned": false,
+      "cityId": 2,
+      "countryCode": "SG",
+      "createdAt": "2014-10-13T20:16:31.000Z",
+      "emails": [
+        {
+          "email": "dsc@ddd.co",
+          "verified": false
+        }
+      ],
+      "experiments": null,
+      "firstName": "Mgr",
+      "gender": "M",
+      "id": 28875,
+      "languageCode": "en",
+      "lastName": "@ Phoenixpark",
+      "lastSignedInAt": null,
+      "phoneNumber": "+65-91111111",
+      "phoneNumberVerified": true,
+      "photoUrl": "",
+      "primaryEmail": {
+        "email": "spruce.mgr.phoenixpark@eatigo.com",
+        "verified": true
+      },
+      "primaryPhone": {
+        "code": "+65",
+        "phone": "91111111",
+        "verified": true
+      },
+      "roles": [
+        {
+          "id": "mer_staff",
+          "name": "Merchant staff"
+        }
+      ],
+      "signupChannelId": "email",
+      "updatedAt": "2017-04-01T00:24:40.000Z",
+      "status": "active"
+    },
+    {
+      "authProviders": [
+
+      ],
+      "banned": false,
+      "cityId": 2,
+      "countryCode": "SG",
+      "createdAt": "2015-08-25T21:44:34.000Z",
+      "emails": [
+
+      ],
+      "experiments": null,
+      "firstName": "Ethan",
+      "gender": "M",
+      "id": 99875,
+      "languageCode": "en",
+      "lastName": "Sim",
+      "lastSignedInAt": null,
+      "phoneNumber": "+65-82228686",
+      "phoneNumberVerified": true,
+      "photoUrl": "",
+      "primaryEmail": {
+        "email": "peizhisim@gmail.com",
+        "verified": true
+      },
+      "primaryPhone": {
+        "code": "+65",
+        "phone": "82228686",
+        "verified": true
+      },
+      "roles": [
+        {
+          "id": "mer_staff",
+          "name": "Merchant staff"
+        }
+      ],
+      "signupChannelId": "email",
+      "updatedAt": "2018-05-02T04:01:52.000Z",
+      "status": "pending"
     }
-  }
-}
+]}
