@@ -1,7 +1,26 @@
 {
   "users": [
-    { "cityId": 2, "countryCode": "SG"},
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { 
+      "cityId": 2, 
+      "countryCode": "SG",
+      "createdAt": "2015-03-31T01:11:45.000Z",
+      "firstName": "Michelle",
+      "gender": "F",
+      "id": 60160,
+      "languageCode": "en",
+      "lastName": "Wong",
+      "phoneNumber": "+65-99991223"
+    },
+    { 
+      "cityId": 2, 
+      "countryCode": "SG",
+      "createdAt": "2015-03-31T01:11:45.000Z",
+      "firstName": "Michelle",
+      "gender": "F",
+      "id": 60170,
+      "languageCode": "en",
+      "lastName": "Wong Updated",
+      "phoneNumber": "+65-99991223"
+    }
   ]
 }
