@@ -9,18 +9,38 @@
       "id": 60160,
       "languageCode": "en",
       "lastName": "Wong",
-      "phoneNumber": "+65-99991223"
+      "phoneNumber": "+65-99991223",
+      "roles": [
+        {
+          "id": "mer",
+          "name": "Merchant"
+        }
+      ],
+      "updatedAt": "2017-04-01T14:00:02.000Z",
+      "status": "active"
     },
-    { 
+     { 
       "cityId": 2, 
       "countryCode": "SG",
-      "createdAt": "2015-03-31T01:11:45.000Z",
+      "createdAt": "2017-02-16T19:48:36.000Z",
       "firstName": "Michelle",
-      "gender": "F",
-      "id": 60170,
+      "gender": "M",
+      "id": 570604,
       "languageCode": "en",
-      "lastName": "Wong Updated",
-      "phoneNumber": "+65-99991223"
-    }
+      "lastName": "Wong",
+      "phoneNumber": "+65-91079888",
+      "roles": [
+        {
+          "id": "mer",
+          "name": "Merchant"
+        }
+      ],
+       "primaryEmail": {
+        "email": "manhattan.kallang@eatigo.com",
+        "verified": true
+      },
+      "updatedAt": "2017-04-01T14:00:02.000Z",
+      "status": "active"
+    },
   ]
 }
